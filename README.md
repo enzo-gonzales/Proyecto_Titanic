@@ -1,4 +1,4 @@
-####**Proyecto Titanic**
+## **Proyecto Titanic**
 
 Este proyecto trabaje en el análisis del famoso Titanic dataset, el cual incluye información sobre los pasajeros del 
 transatlántico que naufragó en 1912.El dataset contiene variables como la clase del pasajero, el género, la edad, la 
